@@ -1,0 +1,80 @@
+section{
+	width: 800px;
+	height: 1000px;
+	border: 2px solid black;
+	background: #b6afaf;
+	margin-left: 400px;
+}
+div{
+	width: 300px;
+	height: 1000px;
+	border: 2px solid black;
+	margin-top: -2px;
+	background: #504949;
+}
+#profile{
+	position: absolute;
+	top: 70px;
+	left: 570px;
+	border-radius: 107px;
+	border: 8px solid black;
+}
+.cir{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 60px;
+	left: 558px;
+	border-radius: 120px;
+	border: 20px solid #b6afaf;
+}
+.heading{
+	background-color: white;
+	font-family: Bookman Old Style;
+	border-top-right-radius: 20px;
+	width:200px;
+
+}
+.icon{
+	border-radius: 100px;
+
+}
+p{
+	position: absolute;
+	color: white;
+}
+li{
+	color: white;
+	font-family: Bradley Hand ITC;
+}
+#name{
+	position: absolute;
+	top: 150px;
+	left: 798px;
+	color:#504949;
+}
+.titles{
+	position: absolute;
+	background-color: #504949;
+	font-family: Bahnschrift SemiLight;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	width:250px;
+	height: 30px;
+	color: white;
+}
+#about{
+	position: absolute;
+	top: 340px;
+	left: 790px;
+	color: black;
+	width: 400px;
+	height: 50px;
+	font-size: 20px;
+}
+dl{
+	position: absolute;
+	top: 540px;
+	left: 790px;
+	
+}
